@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to left, #f13333,#f13333a2,#f1333367,#f1333321);;
+    background-image: linear-gradient(to right, #f13333,#f13333a2,#f1333367,#f1333321);;
+    color: rgb(24, 23, 23);
+}
+
+button{
+    font-size: 20px;
+    background-color: beige;
+    color: #05131f;
+    
+}
+
+.container
+{
+	color: rgb(128, 12, 12);font-family:'Yeon Sung';font-size: extra large;letter-spacing: 5px;margin-top: 80px;
+}
+
